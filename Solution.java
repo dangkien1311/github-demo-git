@@ -20,7 +20,8 @@ class Result {
      *  1. INTEGER k
      *  2. INTEGER_ARRAY arr
      */
-
+    // dong nay de test
+    
     public static int pairs(int k, List<Integer> arr) {
         int count = 0;
         for(int i =0;i< arr.size();i++)

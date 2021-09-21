@@ -22,6 +22,7 @@ class Result {
      */
     // dong nay de test
     // day len
+    //day len lan 2
     public static int pairs(int k, List<Integer> arr) {
         int count = 0;
         for(int i =0;i< arr.size();i++)
